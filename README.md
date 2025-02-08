@@ -1,2 +1,3 @@
-# Work-Chat-App
-Allows user to post and Chat on worklife
+# Work-Life
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sj8259/Work-Life)
